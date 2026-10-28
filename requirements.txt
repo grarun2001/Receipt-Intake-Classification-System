@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pymupdf
+pytesseract
+Pillow
+python-multipart
+pandas
+pytest
+python-dotenv
